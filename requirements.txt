@@ -1,0 +1,6 @@
+streamlit
+google-genai
+openai-whisper
+pydub
+streamlit-mic-recorder
+ffmpeg-python
